@@ -1,0 +1,9 @@
+D:\work\Example2\Example2\bin\Debug\Example2.exe.config
+D:\work\Example2\Example2\bin\Debug\Example2.exe
+D:\work\Example2\Example2\bin\Debug\Example2.pdb
+D:\work\Example2\Example2\obj\Debug\Example2.csprojResolveAssemblyReference.cache
+D:\work\Example2\Example2\obj\Debug\Example2.Form1.resources
+D:\work\Example2\Example2\obj\Debug\Example2.Properties.Resources.resources
+D:\work\Example2\Example2\obj\Debug\Example2.csproj.GenerateResource.Cache
+D:\work\Example2\Example2\obj\Debug\Example2.exe
+D:\work\Example2\Example2\obj\Debug\Example2.pdb
